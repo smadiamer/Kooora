@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56835888738",
+    "project_id": "kooora-31c99",
+    "storage_bucket": "kooora-31c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56835888738:android:23b2c5ddaa6357eea5e33b",
+        "android_client_info": {
+          "package_name": "com.example.kooora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56835888738-4prouqv1auavki1t4qlhteg35tijaatt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kooora",
+            "certificate_hash": "0310b64c772b8761f6a7f98b098c1f0f520f46cc"
+          }
+        },
+        {
+          "client_id": "56835888738-c1ob3n2o6261onj12hr7rkcgsabluuke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8-6tTzZlcPnfZfu6WcPwWWXGbKJHAEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56835888738-c1ob3n2o6261onj12hr7rkcgsabluuke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
